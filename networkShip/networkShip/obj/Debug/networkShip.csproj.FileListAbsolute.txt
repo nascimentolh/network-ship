@@ -1,0 +1,6 @@
+C:\Users\Luiz\Desktop\network-ship\networkShip\networkShip\bin\Debug\networkShip.exe
+C:\Users\Luiz\Desktop\network-ship\networkShip\networkShip\bin\Debug\networkShip.pdb
+C:\Users\Luiz\Desktop\network-ship\networkShip\networkShip\obj\Debug\networkShip.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\network-ship\networkShip\networkShip\obj\Debug\networkShip.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\network-ship\networkShip\networkShip\obj\Debug\networkShip.exe
+C:\Users\Luiz\Desktop\network-ship\networkShip\networkShip\obj\Debug\networkShip.pdb
